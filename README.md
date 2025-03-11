@@ -42,6 +42,19 @@ NumPy
 Matplotlib
 
 
+# Screenshots
+![Image](https://github.com/user-attachments/assets/6a803497-dd72-4551-a26e-c6c2ff248d36)
+
+![Image](https://github.com/user-attachments/assets/b761535f-4abc-462c-9c15-bd286db2e301)
+
+![Image](https://github.com/user-attachments/assets/8bc4d4fe-f51c-44c0-bc0d-705c42ad30d7)
+
+![Image](https://github.com/user-attachments/assets/8268fac7-7d10-41b1-bdd6-9cf0fc684fa8)
+
+![Image](https://github.com/user-attachments/assets/99a77395-af59-4b29-9649-dbbcef5c52fb)
+
+![Image](https://github.com/user-attachments/assets/aecc8c81-0870-415f-927d-bc58c075cddb)
+
 # Project Demo Video: <br>
 
 https://drive.google.com/file/d/1E2uDSOknbZ7S5-qeOxI2ds10ZYonhD0Z/view?usp=drive_link
