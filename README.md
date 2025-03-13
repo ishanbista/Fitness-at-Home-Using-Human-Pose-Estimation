@@ -28,19 +28,19 @@ Fitness at Home using Human Pose Estimation is a deep learning-based system that
 # Technologies Used
 
 Programming Language: <br> 
-Python
+a) Python
 
 Libraries & Frameworks: <br>
 
-OpenCV
+a) OpenCV
 
-MediaPipe
+b) MediaPipe
 
-TensorFlow
+c) TensorFlow
 
-NumPy
+d) NumPy
 
-Matplotlib
+e) Matplotlib
 
 
 # Screenshots
